@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhagwat-Godse
-- 👀 I’m interested in Python and Machine learning
+- 👀 I’m interested in Python,Data Science and Machine learning
 - 🌱 I’m currently learning Python, Machine learning Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning,
 - 📫 How to reach me bhagwatgodse3@gmail.com
 
 <!---
