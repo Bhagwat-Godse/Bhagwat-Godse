@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pythin and Machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bggodse33@gmail.com
+- 📫 How to reach me bhagwatgodse3@gmail.com
 
 <!---
 Bhagwat-Godse/Bhagwat-Godse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
